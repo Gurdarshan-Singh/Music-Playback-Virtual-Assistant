@@ -21,9 +21,7 @@ Our project consists of two main directories: **frontend** and **backend**. Foll
    ```sh
    cd backend
    ```
-2. Install dependencies (if not already installed):
-   ```sh
-   pip install -r requirements.txt
+
    ```
 3. Start the backend server:
    ```sh
